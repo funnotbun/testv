@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "format": "html",
+  "sourcePath": "profile.html",
+  "naming": "fixed",
+  "sizing": {
+    "mode": "stepped",
+    "steps": [
+      375,
+      650,
+      900,
+      1200,
+      1600,
+      2000
+    ],
+    "fixedHeight": 1200,
+    "minimumHeight": 1,
+    "overflow": "expand"
+  },
+  "sizingUi": {
+    "mode": "snap",
+    "overflow": "grow"
+  },
+  "canvasHeight": 650,
+  "overflow": "expand",
+  "svgPath": "profile.svg",
+  "publishedAt": "2026-10-01T20:13:43.160Z",
+  "assets": [
+    {
+      "name": "banner.webp",
+      "sha256": "1eefb1b1140f09073dc4c7a36112f17fac6962ac673d30b0de93b20fee7caf8b",
+      "bytes": 140538
+    },
+    {
+      "name": "output-ezgif.com-video-to-gif-converter.gif",
+      "sha256": "9e91915d84675e200109d098ef0d9c9ea49a46bd68e539d17e4e11f812e63ca4",
+      "bytes": 692958
+    }
+  ],
+  "fixedPath": {
+    "path": "profile.svg",
+    "width": 890,
+    "height": 650
+  },
+  "ownedPaths": [
+    ".nojekyll",
+    "assets/banner.webp",
+    "assets/output-ezgif.com-video-to-gif-converter.gif",
+    "index.html",
+    "profile.html",
+    "profile.json",
+    "profile.svg"
+  ]
+}
