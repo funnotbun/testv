@@ -2,7 +2,7 @@
   "version": 1,
   "format": "html",
   "sourcePath": "profile.html",
-  "naming": "fixed",
+  "naming": "versioned",
   "sizing": {
     "mode": "fixed",
     "steps": [
@@ -13,7 +13,7 @@
       1600,
       2000
     ],
-    "fixedHeight": 1600,
+    "fixedHeight": 650,
     "minimumHeight": 1,
     "overflow": "expand"
   },
@@ -21,17 +21,11 @@
     "mode": "locked",
     "overflow": "grow"
   },
-  "canvasHeight": 1600,
+  "canvasHeight": 650,
   "overflow": "expand",
-  "svgPath": "profile.svg",
-  "publishedAt": "2026-10-03T02:08:32.034Z",
-  "assets": [
-    {
-      "name": "output-ezgif.com-video-to-gif-converter.gif",
-      "sha256": "9e91915d84675e200109d098ef0d9c9ea49a46bd68e539d17e4e11f812e63ca4",
-      "bytes": 692958
-    }
-  ],
+  "svgPath": "profile-20261003-1626.svg",
+  "publishedAt": "2026-10-03T16:26:06.419Z",
+  "assets": [],
   "fixedPath": {
     "path": "profile.svg",
     "width": 890,
@@ -42,6 +36,7 @@
     "assets/banner.webp",
     "assets/output-ezgif.com-video-to-gif-converter.gif",
     "index.html",
+    "profile-20261003-1626.svg",
     "profile.html",
     "profile.json",
     "profile.svg"
