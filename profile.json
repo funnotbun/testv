@@ -13,7 +13,7 @@
       1600,
       2000
     ],
-    "fixedHeight": 650,
+    "fixedHeight": 1600,
     "minimumHeight": 1,
     "overflow": "expand"
   },
@@ -21,16 +21,11 @@
     "mode": "locked",
     "overflow": "grow"
   },
-  "canvasHeight": 650,
+  "canvasHeight": 1600,
   "overflow": "expand",
   "svgPath": "profile.svg",
-  "publishedAt": "2026-10-03T02:07:03.323Z",
+  "publishedAt": "2026-10-03T02:08:32.034Z",
   "assets": [
-    {
-      "name": "banner.webp",
-      "sha256": "1eefb1b1140f09073dc4c7a36112f17fac6962ac673d30b0de93b20fee7caf8b",
-      "bytes": 140538
-    },
     {
       "name": "output-ezgif.com-video-to-gif-converter.gif",
       "sha256": "9e91915d84675e200109d098ef0d9c9ea49a46bd68e539d17e4e11f812e63ca4",
@@ -40,7 +35,7 @@
   "fixedPath": {
     "path": "profile.svg",
     "width": 890,
-    "height": 650
+    "height": 1600
   },
   "ownedPaths": [
     ".nojekyll",
