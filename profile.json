@@ -4,7 +4,7 @@
   "sourcePath": "profile.html",
   "naming": "fixed",
   "sizing": {
-    "mode": "stepped",
+    "mode": "fixed",
     "steps": [
       375,
       650,
@@ -13,18 +13,18 @@
       1600,
       2000
     ],
-    "fixedHeight": 1200,
+    "fixedHeight": 650,
     "minimumHeight": 1,
     "overflow": "expand"
   },
   "sizingUi": {
-    "mode": "snap",
+    "mode": "locked",
     "overflow": "grow"
   },
   "canvasHeight": 650,
   "overflow": "expand",
   "svgPath": "profile.svg",
-  "publishedAt": "2026-10-01T20:13:43.160Z",
+  "publishedAt": "2026-10-03T02:07:03.323Z",
   "assets": [
     {
       "name": "banner.webp",
